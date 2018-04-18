@@ -7,17 +7,33 @@
 ## 二进制安全
 
 ### 溢出
-[Linux off by one漏洞](https://github.com/xinali/articles/issues/28)
+[Linux off by one漏洞](https://github.com/xinali/articles/issues/28)  
+[Stackoverflow + SEH的利用](https://github.com/xinali/articles/issues/24)  
+[DWORD SHOOT + SEH的利用(基于堆)](https://github.com/xinali/articles/issues/25)   
 
-[Stackoverflow + SEH的利用](https://github.com/xinali/articles/issues/24)
+### pwn
 
-[DWORD SHOOT + SEH的利用(基于堆)](https://github.com/xinali/articles/issues/25)
+[ASLR+NX绕过](https://github.com/xinali/articles/issues/4)
 
+
+## 经验总结
+
+[逆向tips](https://github.com/xinali/articles/issues/2)
 
 ## web安全
 
 ### java安全
 
 [CVE-2018-1270 RCE分析](https://github.com/xinali/articles/issues/27)
+
+### 常规
+
+[SSRF漏洞研究](https://github.com/xinali/articles/issues/16)
+[XXE 漏洞研究](https://github.com/xinali/articles/issues/1)
+
+
+## 开发
+
+[渗透测试系统penework的设计及实现](https://github.com/xinali/articles/issues/22)
 
 [总体文章](https://github.com/xinali/articles/issues)
