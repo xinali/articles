@@ -24,7 +24,7 @@
 
 [一道有趣的crackme](https://github.com/xinali/articles/issues/11)  
 [看雪腾讯ctf第二题](https://github.com/xinali/articles/issues/12)  
-[看雪腾讯ctf第三题]](https://github.com/xinali/articles/issues/13)  
+[看雪腾讯ctf第三题](https://github.com/xinali/articles/issues/13)  
 [看雪腾讯ctf第五题(待完善)](https://github.com/xinali/articles/issues/14)  
 [Crackme160-003](https://github.com/xinali/articles/issues/20)  
 
