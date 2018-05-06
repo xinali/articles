@@ -68,3 +68,4 @@
 ## 资料
 
 [Windows Heap Overflow Exploitation](https://www.exploit-db.com/docs/english/33196-windows-heap-overflow-exploitation.pdf)
+[Kernel Pool Exploitation on Windows 7](https://www.exploit-db.com/docs/english/16032-kernel-pool-exploitation-on-windows-7.pdf)
