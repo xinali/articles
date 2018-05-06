@@ -61,6 +61,10 @@
 
 
 
-
-
 [总体文章](https://github.com/xinali/articles/issues)
+
+
+
+## 资料
+
+[Windows Heap Overflow Exploitation](https://www.exploit-db.com/docs/english/33196-windows-heap-overflow-exploitation.pdf)
