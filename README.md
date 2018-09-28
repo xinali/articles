@@ -8,6 +8,7 @@
 
 ## windows 内核驱动开发系列
 
+[IoDeleteSymbolicLink遇到的问题](https://github.com/xinali/articles/issues/32)
 
 ## 二进制安全
 
