@@ -48,11 +48,6 @@
 [windbg 使用](https://github.com/xinali/articles/issues/7)  
 [ollyscript 大量实例及其说明文档](https://github.com/xinali/articles/issues/6)
 
-## web安全
-
-### java安全
-
-[CVE-2018-1270 RCE分析](https://github.com/xinali/articles/issues/27)  
 
 
 ## nodejs 安全
