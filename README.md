@@ -8,6 +8,7 @@
 
 [tcpdump 4.5.1 crash 深入分析](https://www.anquanke.com/post/id/166711)   
 [CoolPlayer bypass DEP(CVE-2008-3408)分析](https://www.anquanke.com/post/id/167424)
+[IE11 CVE-2017-0037 Type Confusion分析](https://www.anquanke.com/post/id/168916)
 
 ## windows 内核驱动开发系列
 
