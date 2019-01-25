@@ -4,11 +4,12 @@
 
 本职工作从事恶意代码分析，时间有限，记录业余兴趣研究
 
-## 漏洞复现
+## 漏洞分析
 
 [tcpdump 4.5.1 crash 深入分析](https://www.anquanke.com/post/id/166711)   
 [CoolPlayer bypass DEP(CVE-2008-3408)分析](https://www.anquanke.com/post/id/167424)        
 [IE11 CVE-2017-0037 Type Confusion分析](https://www.anquanke.com/post/id/168916)   
+[Code Blocks 17.12 Local Buffer Overflow分析](https://www.anquanke.com/post/id/170028)  
 [CVE-2018-1270 RCE分析(web/java)](https://www.anquanke.com/post/id/104926)
 
 ## windows 内核驱动开发系列
