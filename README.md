@@ -15,7 +15,8 @@
 [IE11 CVE-2017-0037 Type Confusion分析](https://www.anquanke.com/post/id/168916)   
 [Code Blocks 17.12 Local Buffer Overflow分析](https://www.anquanke.com/post/id/170028)   
 [openssl 1.1.0a UAF(CVE-2016-6309)分析](https://github.com/xinali/articles/issues/35)  
-[Adobe Reader CVE-2010-2883分析](https://github.com/xinali/articles/issues/36)
+[Adobe Reader CVE-2010-2883分析](https://github.com/xinali/articles/issues/36)    
+[openssl CVE-2016-0799分析](https://github.com/xinali/articles/issues/38) 
 
 
 [CVE-2018-1270 RCE分析(web/java)](https://www.anquanke.com/post/id/104926)
