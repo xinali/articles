@@ -5,7 +5,8 @@
 本职工作从事恶意代码分析，时间有限，记录业余兴趣研究
 
 ## fuzzing系列
-[基于protobuf构建fuzzer(libpng)](https://github.com/xinali/articles/issues/37)
+[基于protobuf构建fuzzer(libpng)](https://github.com/xinali/articles/issues/37)  
+[opessl fuzzing测试学习过程](https://github.com/xinali/articles/issues/39)
 
 
 ## 漏洞分析
