@@ -9,6 +9,9 @@
 [opessl fuzzing测试学习过程](https://github.com/xinali/articles/issues/39)
 
 
+## pwn
+[DynELF leak函数导致堆栈不平衡](https://github.com/xinali/articles/issues/40)
+
 ## 漏洞分析
 
 [tcpdump 4.5.1 crash 深入分析](https://www.anquanke.com/post/id/166711)   
@@ -37,11 +40,12 @@
 [Windows Heap Overflow(win2000)](https://github.com/xinali/articles/issues/18)   
 [FREE WMA MP3 CONVERTER 1.8缓冲区溢出漏洞复现](https://github.com/xinali/articles/issues/21)
 
-### pwn
+### pwn(早期)
 
 
 [pwn初探](https://github.com/xinali/articles/issues/17)  
-[ASLR+NX绕过](https://github.com/xinali/articles/issues/4)
+[ASLR+NX绕过](https://github.com/xinali/articles/issues/4)   
+
 
 ## crackme
 
