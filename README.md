@@ -10,7 +10,8 @@
 
 
 ## pwn
-[DynELF leak函数导致堆栈不平衡](https://github.com/xinali/articles/issues/40)
+[DynELF leak函数导致堆栈不平衡](https://github.com/xinali/articles/issues/40)    
+[Linux x64 pwn 学习](https://github.com/xinali/articles/issues/41)
 
 ## 漏洞分析
 
