@@ -13,6 +13,9 @@
 [DynELF leak函数导致堆栈不平衡](https://github.com/xinali/articles/issues/40)    
 [Linux x64 pwn 学习](https://github.com/xinali/articles/issues/41)
 
+## 恶意代码分析
+[记录一次恶心混淆之静态配置解密的处理](https://github.com/xinali/articles/issues/42)
+
 ## 漏洞分析
 
 [tcpdump 4.5.1 crash 深入分析](https://www.anquanke.com/post/id/166711)   
