@@ -4,6 +4,18 @@
 
 本职工作从事恶意代码分析，时间有限，记录业余兴趣研究
 
+## Found Bugs
+
+### Open Source
+
+[heap-based out-of-bounds read when parsing otf file with undefined FontName in svg option (afdko)](https://github.com/xinali/articles/issues/49)   
+[heap-based out-of-bounds read when parsing otf file with undefined glyph name in svg option (afdko)](https://github.com/xinali/articles/issues/47)    
+
+### Close Source
+[Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
+[Microsoft Font Subsetting DLL Stack Exhaustion at fontsub!GetComponentGlyphList](https://github.com/xinali/articles/issues/46)   
+
+
 ## fuzzing系列
 [基于protobuf构建fuzzer(libpng)](https://github.com/xinali/articles/issues/37)  
 [opessl fuzzing测试学习过程](https://github.com/xinali/articles/issues/39)
