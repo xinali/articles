@@ -10,6 +10,7 @@
 
 [heap-based out-of-bounds read when parsing otf file with undefined FontName in svg option (afdko)](https://github.com/xinali/articles/issues/49)   
 [heap-based out-of-bounds read when parsing otf file with undefined glyph name in svg option (afdko)](https://github.com/xinali/articles/issues/47)    
+[exiv2 parse url crash(exiv2)](https://github.com/Exiv2/exiv2/issues/1065)
 
 ### Close Source
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
