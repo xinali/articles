@@ -12,6 +12,13 @@
 [heap-based out-of-bounds read when parsing otf file with undefined glyph name in svg option (afdko)](https://github.com/xinali/articles/issues/47)    
 [exiv2 parse url crash (exiv2)](https://github.com/Exiv2/exiv2/issues/1065)        
 [pdf2jp2 use NULL pointer cause crash (openjpeg)](https://github.com/uclouvain/openjpeg/issues/1220)    
+[svg-native-viewer heap-buffer-overflow on SVGNative::SVGStringParser::SkipOptWsp](https://github.com/adobe/svg-native-viewer/issues/62)    
+[svg-native-viewer NULL pointer dereference in SVGDocumentImpl::TraverseSVGTree](https://github.com/adobe/svg-native-viewer/issues/63)     
+[svg-native-viewer Infinite loop in CreatePath](https://github.com/adobe/svg-native-viewer/issues/64)    
+[svg-native-viewer NULL pointer dereference in SVGNative::SVGDocument::Render](https://github.com/adobe/svg-native-viewer/issues/65)     
+[svg-native-viewer NULL pointer dereference in SVGDocument::Render(const ColorMap& colorMap) function](https://github.com/adobe/svg-native-viewer/issues/65)  
+
+
 
 ### Close Source
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
