@@ -51,20 +51,21 @@
 [看雪腾讯ctf第五题(待完善)](https://github.com/xinali/articles/issues/14)  
 [Crackme160-003](https://github.com/xinali/articles/issues/20)  
 
+
 ### MISC
 
-[逆向tips](https://github.com/xinali/articles/issues/2)    
-[逆向中的base64加解密](https://github.com/xinali/articles/issues/5)      
-[windbg 使用](https://github.com/xinali/articles/issues/7)     
-[ollyscript 大量实例及其说明文档](https://github.com/xinali/articles/issues/6)   
-[pwn初探](https://github.com/xinali/articles/issues/17)   
-[ASLR+NX绕过](https://github.com/xinali/articles/issues/4)   
 [IoDeleteSymbolicLink遇到的问题](https://github.com/xinali/articles/issues/32)   
 [DynELF leak函数导致堆栈不平衡](https://github.com/xinali/articles/issues/40)       
 [Linux x64 pwn 学习](https://github.com/xinali/articles/issues/41)      
 [记录一次恶心混淆之静态配置解密的处理](https://github.com/xinali/articles/issues/42)      
 [基于protobuf构建fuzzer(libpng)](https://github.com/xinali/articles/issues/37)       
-[opessl fuzzing测试学习过程](https://github.com/xinali/articles/issues/39)      
+[opessl fuzzing测试学习过程](https://github.com/xinali/articles/issues/39)   
+[逆向初期简单随笔](https://github.com/xinali/articles/issues/2)    
+[逆向中的base64加解密](https://github.com/xinali/articles/issues/5)    
+[windbg 使用](https://github.com/xinali/articles/issues/7)     
+[ollyscript 大量实例及其说明文档](https://github.com/xinali/articles/issues/6)   
+[pwn初探](https://github.com/xinali/articles/issues/17)   
+[ASLR+NX绕过](https://github.com/xinali/articles/issues/4)  
 
 
 
