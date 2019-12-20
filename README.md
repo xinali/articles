@@ -22,6 +22,8 @@
 ### Close Source
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
 [Microsoft Font Subsetting DLL Stack Exhaustion at fontsub!GetComponentGlyphList](https://github.com/xinali/articles/issues/46)   
+[Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(CVE-2019-1468)](https://github.com/xinali/articles/issues/51)    
+
 
 
 ## 二进制
