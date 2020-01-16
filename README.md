@@ -23,6 +23,7 @@
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
 [Microsoft Font Subsetting DLL Stack Exhaustion at fontsub!GetComponentGlyphList](https://github.com/xinali/articles/issues/46)   
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(CVE-2019-1468)](https://github.com/xinali/articles/issues/51)    
+[Microsoft Windows CVE-2020-0607](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0607)       
 
 
 
