@@ -16,15 +16,22 @@
 [svg-native-viewer NULL pointer dereference in SVGDocumentImpl::TraverseSVGTree](https://github.com/adobe/svg-native-viewer/issues/63)     
 [svg-native-viewer Infinite loop in CreatePath](https://github.com/adobe/svg-native-viewer/issues/64)    
 [svg-native-viewer NULL pointer dereference in SVGNative::SVGDocument::Render](https://github.com/adobe/svg-native-viewer/issues/65)     
-[svg-native-viewer NULL pointer dereference in SVGDocument::Render(const ColorMap& colorMap) function](https://github.com/adobe/svg-native-viewer/issues/65)  
+[svg-native-viewer NULL pointer dereference in SVGDocument::Render(const ColorMap& colorMap) function](https://github.com/adobe/svg-native-viewer/issues/65)   
+[When parsing malformed pcap file, tcpflow crash with abort](https://github.com/simsong/tcpflow/issues/216)     
+[When parsing malformed pcap file, tcpflow abort in frame_too_short](https://github.com/simsong/tcpflow/issues/217)  
+[libwab heap-based out-of-bound read in write_ldif](https://github.com/pboettch/libwab/issues/2)  
+[libwab heap-based out-of-bound read in output_subrecord](https://github.com/pboettch/libwab/issues/1)     
 
 
 ### Close Source
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
 [Microsoft Font Subsetting DLL Stack Exhaustion at fontsub!GetComponentGlyphList](https://github.com/xinali/articles/issues/46)   
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(CVE-2019-1468)](https://github.com/xinali/articles/issues/51)    
-[Microsoft Windows CVE-2020-0607](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0607)   
+[Microsoft Windows CVE-2020-0607](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0607)     
+[Microsoft Windows CVE-2020-0744](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0744)     
+[Microsoft Windows CVE-2020-0821](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0821)     
 [Microsoft Windows CVE-2020-0879](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0879)    
+[Microsoft Windows CVE-2020-1007](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1007)  
 [Windows 10帮助文件chm格式漏洞挖掘](https://github.com/xinali/articles/issues/53) 
 
 
