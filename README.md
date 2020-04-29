@@ -20,13 +20,15 @@
 [When parsing malformed pcap file, tcpflow crash with abort](https://github.com/simsong/tcpflow/issues/216)     
 [When parsing malformed pcap file, tcpflow abort in frame_too_short](https://github.com/simsong/tcpflow/issues/217)  
 [libwab heap-based out-of-bound read in write_ldif](https://github.com/pboettch/libwab/issues/2)  
-[libwab heap-based out-of-bound read in output_subrecord](https://github.com/pboettch/libwab/issues/1)     
+[libwab heap-based out-of-bound read in output_subrecord](https://github.com/pboettch/libwab/issues/1)    
+[shadowsocksr-native混淆验证auth.c存在基于堆的越界写漏洞](https://github.com/ShadowsocksR-Live/shadowsocksr-native/issues/128)
 
 
 ### Close Source
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(in fontsub!GetGlyphIdx)](https://github.com/xinali/articles/issues/48)   
 [Microsoft Font Subsetting DLL Stack Exhaustion at fontsub!GetComponentGlyphList](https://github.com/xinali/articles/issues/46)   
 [Microsoft Font Subsetting DLL heap-based out-of-bounds read in CreateFontPackage(CVE-2019-1468)](https://github.com/xinali/articles/issues/51)    
+[Microsoft Windows CVE-2019-1468](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1468)      
 [Microsoft Windows CVE-2020-0607](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0607)     
 [Microsoft Windows CVE-2020-0744](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0744)     
 [Microsoft Windows CVE-2020-0821](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0821)     
