@@ -34,6 +34,7 @@
 [Microsoft Windows CVE-2020-0821](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0821)     
 [Microsoft Windows CVE-2020-0879](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0879)    
 [Microsoft Windows CVE-2020-1007](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1007)  
+[Microsoft Windows CVE-2020-1351](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1351)   
 [Windows 10帮助文件chm格式漏洞挖掘](https://github.com/xinali/articles/issues/53) 
 
 
@@ -54,8 +55,18 @@
 [Stackoverflow + SEH的利用](https://github.com/xinali/articles/issues/24)      
 [DWORD SHOOT + SEH的利用(基于堆)](https://github.com/xinali/articles/issues/25)        
 [Windows Heap Overflow(win2000)](https://github.com/xinali/articles/issues/18)   
-[FREE WMA MP3 CONVERTER 1.8缓冲区溢出漏洞复现](https://github.com/xinali/articles/issues/21)
+[FREE WMA MP3 CONVERTER 1.8缓冲区溢出漏洞复现](https://github.com/xinali/articles/issues/21)  
+[CrashesAnalysis_1 (afdko)](https://github.com/xinali/articles/issues/61)  
+[CrashesAnalysis_2 (afdko)](https://github.com/xinali/articles/issues/62)  
 
+
+### fuzz
+
+[fuzz CVE-2019-1117](https://github.com/xinali/articles/issues/58)  
+[fuzz CVE-2019-1118](https://github.com/xinali/articles/issues/59)  
+[fuzz CVE-2019-1127](https://github.com/xinali/articles/issues/60)  
+[cpython历史漏洞分析及其fuzzer编写](https://github.com/xinali/articles/issues/64)  
+[一个简单的多进程且易于使用的传统fuzzer](https://github.com/xinali/articles/issues/65)   
 
 ### crackme
 
@@ -80,6 +91,7 @@
 [ollyscript 大量实例及其说明文档](https://github.com/xinali/articles/issues/6)   
 [pwn初探](https://github.com/xinali/articles/issues/17)   
 [ASLR+NX绕过](https://github.com/xinali/articles/issues/4)  
+[Linux网络编程模型](https://github.com/xinali/articles/issues/57)
 
 
 
